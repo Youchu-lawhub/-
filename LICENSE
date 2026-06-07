@@ -1,4 +1,4 @@
-                                   Apache License
+                                 Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -205,7 +205,8 @@ The skill implements the German Gutachtenstil (鉴定式案例分析法) methodo
 adapted for Chinese civil law practice, featuring an outline-engine that
 performs independent legal analysis without external knowledge base dependencies.
 
-本技能将德国鉴定式案例分析方法论（Gutachtenstil）适配中国民法实务，通过内置大纲引擎（outline-engine）独立完成法律分析，无需依赖外部知识库。
+本技能将德国鉴定式案例分析方法论（Gutachtenstil）适配中国民法实务，通过内置
+大纲引擎（outline-engine）独立完成法律分析，无需依赖外部知识库。
 
 ================================================================================
 
@@ -225,7 +226,8 @@ interpretation:
    Wu Xiangxiang, "Anspruchsgrundlage for Civil Case Causes of Action"
    (China Legal Publishing House, 1st ed., May 2024).
 
-3. [德] 罗尔夫·旺克（Rolf Wank）著，蒋毅、季红明译：《法律解释（第六版）》，北京大学出版社，2020年12月第1版。
+3. [德] 罗尔夫·旺克（Rolf Wank）著，蒋毅、季红明译：《法律解释（第六版）》，
+   北京大学出版社，2020年12月第1版。
    Rolf Wank, "Juristische Methodenlehre (6. Aufl.)", translated by
    Jiang Yi & Ji Hongming (Peking University Press, 1st Chinese ed.,
    December 2020).
@@ -235,7 +237,9 @@ to the methodology of legal case analysis. The workflow design of this skill
 draws upon selected methodological frameworks from these works, adapted and
 extended for AI-assisted implementation.
 
-作者衷心感谢上述学者对法律案例分析方法论的学术贡献。本技能包的工作流设计参考了这些著作中的部分方法论框架，并在此基础上进行了适配与扩展，以实现 AI 辅助的鉴定式案例分析自动化。
+作者衷心感谢上述学者对法律案例分析方法论的学术贡献。本技能包的工作流设计参考
+了这些著作中的部分方法论框架，并在此基础上进行了适配与扩展，以实现 AI 辅助的
+鉴定式案例分析自动化。
 
 ================================================================================
 
@@ -258,13 +262,15 @@ ADDITIONAL TERMS / 附加条款
    thereof, please retain this copyright notice and provide appropriate
    attribution to the original author.
 
-   如您使用、修改或再分发本技能或其实质性部分，请保留本版权声明并对原作者进行适当署名。
+   如您使用、修改或再分发本技能或其实质性部分，请保留本版权声明并对原作者
+   进行适当署名。
 
 2. No Endorsement / 非背书声明:
    The name "游初" and "gutachten-civil-case" shall not be used to endorse or
    promote derivative works without prior written permission.
 
-   未经事先书面许可，不得使用"游初"或"gutachten-civil-case"名称为衍生作品背书或进行推广。
+   未经事先书面许可，不得使用"游初"或"gutachten-civil-case"名称为衍生作品
+   背书或进行推广。
 
 3. Academic Integrity / 学术诚信:
    This skill is designed as a learning and practice aid. Users are responsible
@@ -278,4 +284,5 @@ ADDITIONAL TERMS / 附加条款
    Users of this skill are encouraged to purchase and study the original works
    for a deeper understanding of the underlying methodology.
 
-   上述"学术参考致谢"部分所引用的学术著作，其知识产权归本其作者及出版社所有。鼓励本技能用户购买并研读原著，以深入理解底层方法论。
+   上述"学术参考致谢"部分所引用的学术著作，其知识产权归 respective 作者及
+   出版社所有。鼓励本技能用户购买并研读原著，以深入理解底层方法论。
